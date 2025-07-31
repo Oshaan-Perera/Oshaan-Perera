@@ -17,7 +17,7 @@
 
 ### 📁 Projects
 
-🔹 [SS Marketing SQL Project](https://github.com/USERNAME/SS-Marketing-SQL-Project)  
+🔹 [SS Marketing SQL Project](https://github.com/Oshaan-Perera/SS-Marketing-SQL-Project/tree/main)  
 SQL analysis of a company's operations using real-world business case data
 
 _(More projects coming soon...)_
